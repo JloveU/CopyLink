@@ -1,0 +1,4 @@
+<!ENTITY copylink.link.name   "Copy Link's Name and URL">
+<!ENTITY copylink.tabbar.name "Copy Tab's Title and URL">
+<!ENTITY copylink.description "Copy the name and URL of a link or a Tab.
+Click "Options" to set the format of the copy.">

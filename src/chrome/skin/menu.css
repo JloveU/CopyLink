@@ -1,0 +1,17 @@
+#copylinkLinkContext {
+    list-style-image: url("clipboard_menu.png");
+}
+#copylinkTabbarContext {
+    list-style-image: url("clipboard_menu.png");
+}
+#CopyLinkToolbarBtn  {
+    list-style-image: url("clipboard24.png");
+    -moz-box-orient: vertical;
+}
+toolbar[iconsize="small"] #CopyLinkToolbarBtn,
+#CopyLinkStatusBtn {
+    list-style-image: url("clipboard16.png");
+}
+.agentNonsup {
+    color: red;
+}

@@ -1,0 +1,11 @@
+<!ENTITY prefwindow.title "参数配置">
+<!ENTITY pane1.title "参数配置">
+<!ENTITY stringpref.label "字符串模式：">
+<!ENTITY stringpref.accesskey "S">
+<!ENTITY stringpref.tips1 "输入要得到的“标题+地址”字符串的格式。">
+<!ENTITY stringpref.tips2 "@1代表标题，@2代表地址。">
+<!ENTITY stringpref.tips3 "例如：[@1](@2)对应[百度](http://www.baidu.com/)。">
+<!ENTITY stringpref.tips4 "至少有一个@1和@2，但只有第一个@1、@2是有效的。">
+<!ENTITY restoreDefault "恢复默认设置">
+<!ENTITY accept "确定">
+<!ENTITY cancel "取消">

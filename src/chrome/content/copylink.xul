@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://copylink/skin/menu.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://copylink/locale/copylink.dtd">
+<overlay id="copylinkOverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<script type="application/x-javascript" src="chrome://copylink/content/copylink.js"/>
+
+<popup id="contentAreaContextMenu">
+	<menuitem accesskey="F" id="copylinkLinkContext" label="&copylink.link.name;" oncommand="CopyLinkOverlay.CopyOnLink();" insertafter="context-sep-copylink" statustext="&copylink.description;"/>
+</popup>
+<window id="main-window">
+    <popup id="copylinkTabContextMenu">
+        <menuitem accesskey="F" id="copylinkTabbarContext" label="&copylink.tabbar.name;" oncommand="CopyLinkOverlay.CopyOnTab();"/>
+    </popup>
+</window>
+
+</overlay>

@@ -1,0 +1,8 @@
+<!ENTITY copylink.label "Your localized menuitem">
+<!ENTITY copylinkContext.label "Your Menuitem">
+<!ENTITY copylinkContext.accesskey "Y">
+<!ENTITY copylinkToolbarButton.label "Your Toolbar Button">
+<!ENTITY copylinkToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY copylinkSidebar.label "Your Sidebar">
+<!ENTITY copylinkToolbar.name  "example">
+<!ENTITY copylinkToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &copylinkToolbar.name;">

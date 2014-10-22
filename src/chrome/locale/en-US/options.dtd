@@ -1,0 +1,11 @@
+<!ENTITY prefwindow.title "CopyLink preferences">
+<!ENTITY pane1.title "CopyLink preferences">
+<!ENTITY stringpref.label "String Pattern:">
+<!ENTITY stringpref.accesskey "S">
+<!ENTITY stringpref.tips1 "Input the format of [title + address] string.">
+<!ENTITY stringpref.tips2 "@1 represents the title, @2 represents the address.">
+<!ENTITY stringpref.tips3 "For example:[@1](@2) corresponding to [Baidu](http://www.baidu.com/).">
+<!ENTITY stringpref.tips4 "At least one @1 and @2 should be in it, but only the first @1 and @2 is valid.">
+<!ENTITY restoreDefault "Restore Default">
+<!ENTITY accept "Confirm">
+<!ENTITY cancel "Cancel">

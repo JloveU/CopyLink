@@ -1,0 +1,4 @@
+<!ENTITY copylink.link.name   "复制链接名称和地址">
+<!ENTITY copylink.tabbar.name "复制本标签页标题和地址">
+<!ENTITY copylink.description "将浏览器标签或链接的标题和地址复制到剪贴板。
+点击“选项”可设置复制内容的格式。">
